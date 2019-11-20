@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
-baseurl:          '/hydeout'
+title:            Dong-Kyu Chae
+tagline:          'homepage'
+description:      I am a postdoctoral research associate at <a href="https://cc.gatech.edu/" target="_blank">Georgia Tech</a> working with <a href="https://poloclub.github.io/polochau/" target="_blank">Prof. Polo</a>'s <a href="https://poloclub.github.io/" target="_blank">data science group</a>.
+url:              'https://dkchae.github.io/'
+baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,10 +15,10 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Dong-Kyu Chae'
+  url:            https://dkchae.github.io/
 
-paginate:         5
+paginate:         1
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
