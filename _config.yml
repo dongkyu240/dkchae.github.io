@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Dong-Kyu Chae
 tagline:          'homepage'
-description:      I am a postdoctoral research associate at <a href="https://cc.gatech.edu/" target="_blank">Georgia Tech</a> working with <a href="https://poloclub.github.io/polochau/" target="_blank">Prof. Polo</a>'s <a href="https://poloclub.github.io/" target="_blank">data science group</a>.
+description:      I am a postdoctoral researcher at <a href="https://cc.gatech.edu/" target="_blank">Georgia Tech</a> working with <a href="https://poloclub.github.io/polochau/" target="_blank">Prof. Polo</a>'s <a href="https://poloclub.github.io/" target="_blank">data science group</a>.
 url:              'https://dkchae.github.io/'
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
