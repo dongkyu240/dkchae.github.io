@@ -20,6 +20,7 @@ title: Me and My Family
 ![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/0.jpg?raw=true "2019-01-01: baby born!")
 ![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/01.jpg?raw=true "2019-01-06")
 ![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/02.jpg?raw=true "2019-01-07")
+![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/phdgrad.jpg?raw=true "2019-02, graduation (ph.d.)")
 ![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/1.jpg?raw=true "2019-05-25")
 ![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/2.jpg?raw=true "2019-03-07")
 ![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/3.jpg?raw=true "2019-06-05")
