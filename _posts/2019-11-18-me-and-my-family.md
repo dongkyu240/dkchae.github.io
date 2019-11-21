@@ -7,7 +7,7 @@ title: Me and My Family
 ![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/cikm2013.jpg?raw=true "2013-10, ACM CIKM 2013, in San Francisco")
 ![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/wed.jpg?raw=true "2015-05, wedding ceremony")
 ![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/honeymoon.jpg?raw=true "2015-05, honeymoon in Phuket")
-![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/kiise2015.jpg?raw=true "2015-06, KIISE 2015 in Jeju Island")
+![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/kiise2014.JPG?raw=true "2015-06, KIISE 2015 in Jeju Island")
 ![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/cikm2015.jpg?raw=true "2015-10, ACM CIKM 2015 in Melbourne")
 ![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/msra2016.jpg?raw=true "2016-05, in Japan. I was invited by the MSRA workshop.")
 ![image](https://github.com/dkchae/dkchae.github.io/blob/master/img/intern1.jpg?raw=true "2016-09, at Mountain Baekdu. I visited here when I was an intern in MSRA.")
