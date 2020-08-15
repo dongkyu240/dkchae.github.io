@@ -4,8 +4,10 @@ highlighter:      rouge
 
 # Setup
 title:            채동규
-tagline:          'homepage'
-description:      조교수, 한양대학교 컴퓨터소프트웨어학과.
+tagline:          '채동규'
+description:      조교수
+                  한양대학교
+                  컴퓨터소프트웨어학과 
 url:              'https://dkchae.github.io/'
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
